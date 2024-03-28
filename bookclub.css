@@ -1,0 +1,66 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+#wrapper { background-color: #f2f2f2;
+    padding: 0;
+}   
+header {
+    background-color: #A3FFFC;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    height: 128px;
+    padding-left: 105px;		 
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+nav{
+    font-size: large;
+    
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2 {
+    color: #333;
+}
+h1 { font-size: 2em; }
+p {
+    line-height: 1.6;
+}
+
+
+footer {
+    background-color: #A3FFFC;
+    color: #333;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.sitePic{ display: block;
+    margin: 0 auto;
+
+}
+
+.book0 {max-width: 100px;}
+  
+
+.book1 {max-width: 100px;}
+   
+
+        .book2 {max-width: 100px;}
+.profilepic{max-width: 25px;}
